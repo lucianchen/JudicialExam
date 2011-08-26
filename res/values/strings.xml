@@ -3,4 +3,9 @@
     <string name="hello">司法考试真题测验*^_^*</string>
     <string name="app_name">司法考试真题测验</string>
     <string name="startTextButtonText">开始测验吧*^_^*</string>
+    <string name="exam_option_title_1">请选择试卷题目类型</string>
+    <string name="exam_option_type_1">卷一</string>
+    <string name="exam_option_type_2">卷二</string>
+    <string name="exam_option_type_3">卷三</string>
+    <string name="exam_option_type_4">随机出题</string>
 </resources>
